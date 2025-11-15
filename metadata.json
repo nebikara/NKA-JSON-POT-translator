@@ -1,0 +1,6 @@
+
+{
+  "name": "NKA Json&pot translator",
+  "description": "An intelligent, wizard-based tool for translating JSON files into multiple languages using the Google Gemini API. Features a sleek, modern UI, multi-file handling, advanced translation rules, and a guided workflow for a seamless experience.",
+  "requestFramePermissions": []
+}
